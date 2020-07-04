@@ -2,7 +2,7 @@
 Components for quick prototyping in ReactJS
 
 Requirements
-* React Bootstrap components
+* [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
 
 To be a npm library....
 
