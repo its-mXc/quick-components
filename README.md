@@ -11,7 +11,7 @@ Components
   > <Notice message="message text", heading="heading text", variant="success" />
 
 * LoginForm
-  > <LoginForm handleEmailChange={ emailchangefunction }, handlePasswordChange={ passwordchangefunction }, handleLogin={ loginfunction } />
+  > <LoginForm handleEmailChange={ emailchangefunction }, handlePasswordChange={ passwordchangefunction }, handleLogin={ loginfunction } remember/>
   
     > Addidtional Props for login form
     > * emailLabel, default_value: "Email Address"
