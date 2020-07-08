@@ -19,3 +19,4 @@ Components
     > * passwordLabel, default_value: "Password"
     > * passwordPlaceholder, default_value: "Password"
     >* buttonText, default_text: "Login"
+    >* rememberlabel, default_text: "Remember me"
