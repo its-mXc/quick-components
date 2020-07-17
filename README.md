@@ -20,3 +20,6 @@ Components
     > * passwordPlaceholder, default_value: "Password"
     >* buttonText, default_text: "Login"
     >* rememberlabel, default_text: "Remember me"
+ 
+ * SignupForm
+  > < SignupForm handleNameChange={ nameChangeFn }, handleEmailChange={ emailChangeFn }, handlePasswordChange={passowordChangeFn}, handleSignup={signupFn} /> 
