@@ -21,5 +21,8 @@ Components
     >* buttonText, default_text: "Login"
     >* rememberlabel, default_text: "Remember me"
  
- * SignupForm
+* SignupForm
   > < SignupForm handleNameChange={ nameChangeFn }, handleEmailChange={ emailChangeFn }, handlePasswordChange={passowordChangeFn}, handleSignup={signupFn} /> 
+  
+* Avagar
+  > < Avatar image='./images/1.png' diamater='50' /> 
