@@ -24,5 +24,10 @@ Components
 * SignupForm
   > < SignupForm handleNameChange={ nameChangeFn }, handleEmailChange={ emailChangeFn }, handlePasswordChange={passowordChangeFn}, handleSignup={signupFn} /> 
   
-* Avagar
+* Avatar
   > < Avatar image='./images/1.png' diamater='50' /> 
+* Card
+  > <Card header="header text", title="title text", text="text" /> 
+
+* NavigationBar
+  > <NavigationBar logo="logo text" navItems={{'home': '#home', 'contact':'/contact'}} />
