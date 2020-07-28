@@ -32,9 +32,8 @@ Components
 * NavigationBar
   > <NavigationBar logo="logo text" navItems={{'home': '#home', 'contact':'/contact'}} />
   
-  
 * Dropdown
   > <Dropdown items={{'home': '#home', 'contact':'/contact'}} dividedItems={{'careers': '/careers'}} />
   
 * Pagination
-  > <Dropdown pages="5" prefix={window.location} />
+  > <Pagination pages="5" prefix={ window.location } />
