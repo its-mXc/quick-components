@@ -25,3 +25,5 @@ const Dropdown = (items, dividedItems) => {
     )
   }
 }
+
+export default Dropdown
