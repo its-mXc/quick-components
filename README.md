@@ -35,3 +35,6 @@ Components
   
 * Dropdown
   > <Dropdown items={{'home': '#home', 'contact':'/contact'}} dividedItems={{'careers': '/careers'}} />
+  
+* Pagination
+  > <Dropdown pages="5" prefix={window.location} />
