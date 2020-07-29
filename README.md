@@ -35,3 +35,6 @@ Components
   
 * Dropdown
   > <Dropdown items={{'home': '#home', 'contact':'/contact'}} dividedItems={{'careers': '/careers'}} />
+
+* Modal
+  > <Modal title="title text", body="body text", buttonText="Save", buttonFunction={ handleSaveFunction }) >
