@@ -32,9 +32,12 @@ Components
 * NavigationBar
   > <NavigationBar logo="logo text" navItems={{'home': '#home', 'contact':'/contact'}} />
   
-  
 * Dropdown
   > <Dropdown items={{'home': '#home', 'contact':'/contact'}} dividedItems={{'careers': '/careers'}} />
 
+* Pagination
+  > <Pagination pages="5" prefix={ window.location } />
+
 * Modal
   > <Modal title="title text", body="body text", buttonText="Save", buttonFunction={ handleSaveFunction }) >
+  
