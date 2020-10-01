@@ -1,5 +1,5 @@
 # quick-components
-Components for quick prototyping in ReactJS
+Components for quick prototyping in ReactJS(in works 📌)
 
 Requirements
 * [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
